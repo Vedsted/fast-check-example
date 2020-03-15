@@ -20,7 +20,8 @@
     "assert": "^2.0.0",
     "list": "^2.0.19",
     "ts-node": "^8.6.2",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "minimist": ">=1.2.2"
   },
   "jest": {
     "moduleFileExtensions": [
