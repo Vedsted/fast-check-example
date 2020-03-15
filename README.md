@@ -12,3 +12,6 @@ Run the following command to execute fast-check tests
 ```
 npm run test
 ```
+
+## Slides
+Link to slides on Google Drive: [Slides](https://docs.google.com/presentation/d/1xVuCvwqicukojSg_r_TlEcqpO7w0i7By544FhWS_LlA/edit?usp=sharing)
